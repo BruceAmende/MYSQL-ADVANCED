@@ -4,7 +4,7 @@
 
 ## Uitleg
 
-In de vorige taak hebben we uitgerekend hoeveel het *ongeveer* scheelt als we dubbele data vermijden in onze database. In werkelijkheid is de manier waarop databases gegevens opslaan iets complexer dan dat er bij de vorige taak wordt beschreven en verschilt dit ook per database systeem. Maar hoe kunnen we een database zo ontwerpen dat die geen dubbele data bevat?
+In de vorige taak hebben we uitgerekend hoeveel het *ongeveer* scheelt als we dubbele data vermijden in onze database. In werkelijkheid is de manier waarop databases gegevens opslaan iets complexer dan dat er bij de vorige taak wordt beschreven en veschilt dit ook per database systeem. Maar hoe kunnen we een database zo ontwerpen dat die rgeen dubbele data bevat?
 
 ### Oplossing dubbele data
 
